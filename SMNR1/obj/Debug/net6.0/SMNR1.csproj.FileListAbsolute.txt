@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\bin\Debug\net6.0\SMNR1.exe
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\bin\Debug\net6.0\SMNR1.deps.json
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\bin\Debug\net6.0\SMNR1.runtimeconfig.json
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\bin\Debug\net6.0\SMNR1.dll
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\bin\Debug\net6.0\SMNR1.pdb
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.AssemblyInfo.cs
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.dll
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\refint\SMNR1.dll
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.pdb
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\SMNR1.genruntimeconfig.cache
+C:\Users\MSI\Desktop\CHPSMNR1\SMNR1\obj\Debug\net6.0\ref\SMNR1.dll
