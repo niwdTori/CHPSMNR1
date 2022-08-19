@@ -1,12 +1,10 @@
 ﻿Console.WriteLine("Hello! Is the first number the square of the second?");
 
 Console.WriteLine("Please, input first number: ");
-string FNumber = Console.ReadLine();
-int FirstNumber = int.Parse(FNumber);
+int FirstNumber = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Please, input second number: ");
-string SNumber = Console.ReadLine();
-int SecondNumber = int.Parse(SNumber);
+int SecondNumber = int.Parse(Console.ReadLine());
 
 if(SecondNumber * SecondNumber == FirstNumber) 
 {
