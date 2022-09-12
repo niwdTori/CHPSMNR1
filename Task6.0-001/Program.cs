@@ -30,7 +30,7 @@ for(int i = 0; i < j; i++) // i < array.Length - 1
 {
     int temparray = array[i];
     array[i] = array[j];  // = array[array.Length - i - 1]
-    array[j] = temprarray; // array[array.Length - i - 1] =
+    array[j] = temparray; // array[array.Length - i - 1] =
     j--;
 }
 Console.WriteLine();

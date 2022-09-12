@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите сторону a: ");
+﻿// Существует ли треугольник с данными сторонами
+
+Console.WriteLine("Введите сторону a: ");
 double a = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите сторону b: ");

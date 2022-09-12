@@ -10,7 +10,7 @@ string MyJoin(string delimiter, int[] array)
     string result = ""; //создание пустой строки
     for(int i = 0; i < array.Length - 1; i++)
     {
-        result = result + array[i] + delimeter;
+        result = result + array[i] + delimiter;
     }
     result = result + array[array.Length - 1];
 
